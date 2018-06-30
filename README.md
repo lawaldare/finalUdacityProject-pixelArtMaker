@@ -2,4 +2,4 @@
 
 
 
-https://github.com/myprjct/finalUdacityProject-pixelArtMaker
+https://lawaldare.github.io/
